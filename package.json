@@ -4,6 +4,7 @@
   "description": "Maramataka Māori layer on your devices calendar",
   "main": "index.js",
   "scripts": {
+    "build": "node generate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
