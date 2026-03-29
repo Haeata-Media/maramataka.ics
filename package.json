@@ -1,0 +1,25 @@
+{
+  "name": "maramataka.ics",
+  "version": "1.0.0",
+  "description": "Maramataka Māori layer on your devices calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haeata-Media/maramataka.ics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Haeata-Media/maramataka.ics/issues"
+  },
+  "homepage": "https://github.com/Haeata-Media/maramataka.ics#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "ical-generator": "^10.1.0"
+  }
+}
