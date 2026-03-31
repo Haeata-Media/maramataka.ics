@@ -54,11 +54,10 @@ function generateCalendars() {
   const calGuidance = ical({ name: 'Maramataka (Guidance)' });
 
   // Calibrate phase offsets based on a known authentic anchor date
-  // User provided: Wednesday 1st April 2026 is Atua (Index 13) to continue matching Hina
   const anchorDate = new Date("2026-04-01T12:00:00+13:00");
-  const TargetIndex = maramatakaPhases.findIndex(p => p.name === 'Atua'); // 13
+  const TargetIndex = maramatakaPhases.findIndex(p => p.name === 'Atua whakahaehae'); // 13
   const rawAnchorPhase = SunCalc.getMoonIllumination(anchorDate).phase;
-  // Calculate offset so that the anchor maps cleanly inside the integer slice for Atua
+  // Calculate offset so that the anchor maps cleanly inside the integer slice
   const REQUIRED_PHASE_START = TargetIndex / maramatakaPhases.length;
   // Shifting the phase slightly inside the cell so that standard daily iterations land cleanly inside
   const phaseOffset = REQUIRED_PHASE_START - rawAnchorPhase + (0.4 / maramatakaPhases.length);
