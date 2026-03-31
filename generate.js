@@ -18,22 +18,22 @@ const maramatakaPhases = [
   { name: 'Huna', energy: 'Low', action: 'Rest', description: 'Things are hidden. Not a good day for seeking.', moon: '🌔' },
   { name: 'Māwharu', energy: 'High', action: 'Act', description: 'A very favorable day for all activities.', moon: '🌔' },
   { name: 'Ōhua', energy: 'High', action: 'Act', description: 'Moon is becoming full. Favorable for planting and productivity.', moon: '🌔' },
-  { name: 'Atua', energy: 'Low', action: 'Rest', description: 'A tricky day, energy is strange. Be careful.', moon: '🌔' },
-  { name: 'Turu', energy: 'High', action: 'Act', description: 'Energy is at its peak. Gathering day.', moon: '🌕' },
+  { name: 'Atua whakahaehae', energy: 'Low', action: 'Rest', description: 'A tricky day, energy is strange. Be careful.', moon: '🌔' },
+  { name: 'Oturu', energy: 'High', action: 'Act', description: 'Energy is at its peak. Gathering day.', moon: '🌕' },
   { name: 'Rākaunui', energy: 'High', action: 'Act', description: 'Peak energy. The full moon. Highly productive.', moon: '🌕' },
   { name: 'Rākaumatohi', energy: 'High', action: 'Act', description: 'Excellent day. Energy is still very strong.', moon: '🌕' },
   { name: 'Takirau', energy: 'Medium', action: 'Act', description: 'Energy is beginning to wane gently.', moon: '🌖' },
   { name: 'Oike', energy: 'Medium', action: 'Rest', description: 'A difficult day, energy dropping.', moon: '🌖' },
-  { name: 'Korekore Tuatahi', energy: 'Low', action: 'Rest', description: 'A non-productive day. Energy is low.', moon: '🌖' },
+  { name: 'Korekore te whiwhia', energy: 'Low', action: 'Rest', description: 'A non-productive day. Energy is low.', moon: '🌖' },
   { name: 'Korekore Rawea', energy: 'Low', action: 'Rest', description: 'A barren day. Rest is essential.', moon: '🌗' },
-  { name: 'Korekore Whakapiri', energy: 'Low', action: 'Plan', description: 'Transitioning soon. Prepare for active days ahead.', moon: '🌗' },
-  { name: 'Tangaroa-ā-mua', energy: 'High', action: 'Act', description: 'An excellent day, highly productive.', moon: '🌗' },
-  { name: 'Tangaroa-ā-roto', energy: 'High', action: 'Act', description: 'A very good day for important tasks.', moon: '🌗' },
+  { name: 'Korekore te piri ki Tangaroa', energy: 'Low', action: 'Plan', description: 'Transitioning soon. Prepare for active days ahead.', moon: '🌗' },
+  { name: 'Tangaroa-a-mua', energy: 'High', action: 'Act', description: 'An excellent day, highly productive.', moon: '🌗' },
+  { name: 'Tangaroa-a-roto', energy: 'High', action: 'Act', description: 'A very good day for important tasks.', moon: '🌗' },
   { name: 'Tangaroa-whakapau', energy: 'High', action: 'Act', description: 'Energy is abundant, use it to complete tasks.', moon: '🌗' },
-  { name: 'Tangaroa Whāriki Kiokio', energy: 'High', action: 'Act', description: 'A powerful day. Make use of the great energy.', moon: '🌗' },
-  { name: 'Ōtāne', energy: 'High', action: 'Act', description: 'A highly productive and good day.', moon: '🌘' },
+  { name: 'Tangaroa-a-Kiokio', energy: 'High', action: 'Act', description: 'A powerful day. Make use of the great energy.', moon: '🌗' },
+  { name: 'Ōtane', energy: 'High', action: 'Act', description: 'A highly productive and good day.', moon: '🌘' },
   { name: 'Ōrongonui', energy: 'High', action: 'Act', description: 'An exceptionally good and fruitful day.', moon: '🌘' },
-  { name: 'Ōmutu', energy: 'Low', action: 'Rest', description: 'The ending of the cycle. Time to wrap up.', moon: '🌘' },
+  { name: 'Māuri', energy: 'Low', action: 'Rest', description: 'The ending of the cycle. Time to wrap up.', moon: '🌘' },
   { name: 'Mutuwhenua', energy: 'Low', action: 'Rest', description: 'The absolute end of the lunar cycle. Complete rest.', moon: '🌑' }
 ];
 
@@ -90,7 +90,10 @@ function generateCalendars() {
     const guidanceTitle = `🎯 Focus: ${currentPhase.action}`;
     const guidanceDesc = `Suggested action: ${currentPhase.action}`;
 
+    const dateKey = icalDate.toISOString().split('T')[0];
+    
     calFull.createEvent({
+      uid: `maramataka-full-${dateKey}`,
       start: icalDate,
       allDay: true,
       summary: fullTitle,
@@ -98,6 +101,7 @@ function generateCalendars() {
     });
 
     calEnergy.createEvent({
+      uid: `maramataka-energy-${dateKey}`,
       start: icalDate,
       allDay: true,
       summary: energyTitle,
@@ -105,6 +109,7 @@ function generateCalendars() {
     });
 
     calGuidance.createEvent({
+      uid: `maramataka-guidance-${dateKey}`,
       start: icalDate,
       allDay: true,
       summary: guidanceTitle,
@@ -112,7 +117,6 @@ function generateCalendars() {
     });
     
     // Store data for the JSON API
-    const dateKey = icalDate.toISOString().split('T')[0];
     jsonData[dateKey] = {
       name: currentPhase.name,
       energy: currentPhase.energy,
