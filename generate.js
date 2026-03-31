@@ -19,6 +19,7 @@ const maramatakaPhases = [
   { name: 'Mawharu', energy: 'High', action: 'Act', description: 'A very favorable day for all activities.', moon: '🌔' },
   { name: 'Maurea', energy: 'High', action: 'Act', description: 'Good for connecting with others and important work.', moon: '🌔' },
   { name: 'Atua', energy: 'Low', action: 'Rest', description: 'A tricky day, energy is strange. Be careful.', moon: '🌔' },
+  { name: 'Ohua', energy: 'High', action: 'Act', description: 'Moon is becoming full. Favorable for planting and productivity.', moon: '🌔' },
   { name: 'Turu', energy: 'High', action: 'Act', description: 'Energy is at its peak. Gathering day.', moon: '🌕' },
   { name: 'Rākaunui', energy: 'High', action: 'Act', description: 'Peak energy. The full moon. Highly productive.', moon: '🌕' },
   { name: 'Rākaumatohi', energy: 'High', action: 'Act', description: 'Excellent day. Energy is still very strong.', moon: '🌕' },
@@ -53,6 +54,16 @@ function generateCalendars() {
   const calEnergy = ical({ name: 'Maramataka (Energy Only)' });
   const calGuidance = ical({ name: 'Maramataka (Guidance)' });
 
+  // Calibrate phase offsets based on a known authentic anchor date
+  // User provided: Tuesday 31st March 2026 is Ohua (Index 14)
+  const anchorDate = new Date("2026-03-31T12:00:00+13:00");
+  const OhuaIndex = maramatakaPhases.findIndex(p => p.name === 'Ohua'); // 14
+  const rawAnchorPhase = SunCalc.getMoonIllumination(anchorDate).phase;
+  // Calculate offset so that the anchor maps cleanly inside the integer slice for Ohua
+  const REQUIRED_PHASE_START = OhuaIndex / maramatakaPhases.length;
+  // Shifting the phase slightly inside the cell so that standard daily iterations land cleanly inside
+  const phaseOffset = REQUIRED_PHASE_START - rawAnchorPhase + (0.4 / maramatakaPhases.length);
+
   // Generate for 365 days starting from today to provide a full year calendar
   const today = new Date();
   today.setHours(12, 0, 0, 0); // Calculate at noon for a consistent phase reading
@@ -60,7 +71,13 @@ function generateCalendars() {
   for (let i = 0; i < 365; i++) {
     const eventDate = addDays(today, i);
     const moonIllumination = SunCalc.getMoonIllumination(eventDate);
-    const phaseIndex = Math.floor(moonIllumination.phase * 30);
+    const icalDate = new Date(Date.UTC(eventDate.getFullYear(), eventDate.getMonth(), eventDate.getDate()));
+    
+    // Apply our calibration offset, wrap if it breaches [0, 1]
+    let adjustedPhase = (moonIllumination.phase + phaseOffset) % 1.0;
+    if (adjustedPhase < 0) adjustedPhase += 1.0;
+    
+    const phaseIndex = Math.floor(adjustedPhase * maramatakaPhases.length);
     const currentPhase = maramatakaPhases[phaseIndex];
 
     const fullTitle = `${currentPhase.moon} ${currentPhase.name} — ${currentPhase.energy} Energy`;
@@ -73,21 +90,21 @@ function generateCalendars() {
     const guidanceDesc = `Suggested action: ${currentPhase.action}`;
 
     calFull.createEvent({
-      start: eventDate,
+      start: icalDate,
       allDay: true,
       summary: fullTitle,
       description: fullDesc,
     });
 
     calEnergy.createEvent({
-      start: eventDate,
+      start: icalDate,
       allDay: true,
       summary: energyTitle,
       description: energyDesc,
     });
 
     calGuidance.createEvent({
-      start: eventDate,
+      start: icalDate,
       allDay: true,
       summary: guidanceTitle,
       description: guidanceDesc,
