@@ -7,34 +7,33 @@ const SunCalc = require('suncalc');
 const maramatakaPhases = [
   { name: 'Whiro', energy: 'Low', action: 'Rest', description: 'Lowest energy day. A time for rest, introspection, and planning.', moon: '🌑' },
   { name: 'Tirea', energy: 'Low', action: 'Plan', description: 'Energy is slowly returning. Gentle preparation.', moon: '🌒' },
-  { name: 'Ohoata', energy: 'Medium', action: 'Plan', description: 'Energy is building. Good for starting small tasks.', moon: '🌒' },
-  { name: 'Oue', energy: 'Medium', action: 'Act', description: 'Productive day. Energy continues to increase.', moon: '🌒' },
+  { name: 'Hoata', energy: 'Medium', action: 'Plan', description: 'Energy is building. Good for starting small tasks.', moon: '🌒' },
+  { name: 'Ōuenuku', energy: 'Medium', action: 'Act', description: 'Productive day. Energy continues to increase.', moon: '🌒' },
   { name: 'Okoro', energy: 'High', action: 'Act', description: 'An excellent day for important work and gathering.', moon: '🌒' },
-  { name: 'Tamatea a ngana', energy: 'Medium', action: 'Act', description: 'Unpredictable energy. Proceed with caution.', moon: '🌓' },
-  { name: 'Tamatea a hotu', energy: 'Medium', action: 'Act', description: 'Unpredictable weather and energy.', moon: '🌓' },
-  { name: 'Tamatea a whio', energy: 'Medium', action: 'Act', description: 'Varying energy. Stay grounded.', moon: '🌓' },
-  { name: 'Tamatea kai ariki', energy: 'Low', action: 'Rest', description: 'A difficult day. Better to observe and rest.', moon: '🌓' },
+  { name: 'Tamatea-āio', energy: 'Medium', action: 'Act', description: 'Unpredictable energy. Wait until things settle.', moon: '🌓' },
+  { name: 'Tamatea-angana', energy: 'Medium', action: 'Act', description: 'Unpredictable energy. Proceed with caution.', moon: '🌓' },
+  { name: 'Tamatea-kai-ariki', energy: 'Low', action: 'Rest', description: 'A difficult day. Better to observe and rest.', moon: '🌓' },
+  { name: 'Tamatea Tūhāhā', energy: 'Low', action: 'Rest', description: 'Varying unpredictable energy. Stay grounded.', moon: '🌓' },
+  { name: 'Ariroa', energy: 'Medium', action: 'Plan', description: 'A quiet day. Good for light tasks and reflection.', moon: '🌔' },
   { name: 'Huna', energy: 'Low', action: 'Rest', description: 'Things are hidden. Not a good day for seeking.', moon: '🌔' },
-  { name: 'Ariro', energy: 'Medium', action: 'Plan', description: 'A quiet day. Good for light tasks.', moon: '🌔' },
-  { name: 'Mawharu', energy: 'High', action: 'Act', description: 'A very favorable day for all activities.', moon: '🌔' },
-  { name: 'Maurea', energy: 'High', action: 'Act', description: 'Good for connecting with others and important work.', moon: '🌔' },
+  { name: 'Māwharu', energy: 'High', action: 'Act', description: 'A very favorable day for all activities.', moon: '🌔' },
+  { name: 'Ōhua', energy: 'High', action: 'Act', description: 'Moon is becoming full. Favorable for planting and productivity.', moon: '🌔' },
   { name: 'Atua', energy: 'Low', action: 'Rest', description: 'A tricky day, energy is strange. Be careful.', moon: '🌔' },
-  { name: 'Ohua', energy: 'High', action: 'Act', description: 'Moon is becoming full. Favorable for planting and productivity.', moon: '🌔' },
   { name: 'Turu', energy: 'High', action: 'Act', description: 'Energy is at its peak. Gathering day.', moon: '🌕' },
   { name: 'Rākaunui', energy: 'High', action: 'Act', description: 'Peak energy. The full moon. Highly productive.', moon: '🌕' },
   { name: 'Rākaumatohi', energy: 'High', action: 'Act', description: 'Excellent day. Energy is still very strong.', moon: '🌕' },
   { name: 'Takirau', energy: 'Medium', action: 'Act', description: 'Energy is beginning to wane gently.', moon: '🌖' },
   { name: 'Oike', energy: 'Medium', action: 'Rest', description: 'A difficult day, energy dropping.', moon: '🌖' },
-  { name: 'Korekore te whiwhia', energy: 'Low', action: 'Rest', description: 'A non-productive day. Energy is low.', moon: '🌖' },
-  { name: 'Korekore te rawea', energy: 'Low', action: 'Rest', description: 'A barren day. Rest is essential.', moon: '🌗' },
-  { name: 'Korekore piri ki ngā Tangaroa', energy: 'Low', action: 'Plan', description: 'Transitioning soon. Prepare for active days ahead.', moon: '🌗' },
-  { name: 'Tangaroa a mua', energy: 'High', action: 'Act', description: 'An excellent day, highly productive.', moon: '🌗' },
-  { name: 'Tangaroa a roto', energy: 'High', action: 'Act', description: 'A very good day for important tasks.', moon: '🌗' },
-  { name: 'Tangaroa kiokio', energy: 'High', action: 'Act', description: 'A powerful day. Make use of the great energy.', moon: '🌗' },
-  { name: 'Otāne', energy: 'High', action: 'Act', description: 'A highly productive and good day.', moon: '🌘' },
-  { name: 'Orongonui', energy: 'High', action: 'Act', description: 'An exceptionally good and fruitful day.', moon: '🌘' },
-  { name: 'Mauri', energy: 'Medium', action: 'Plan', description: 'Energy begins to draw inward. Finishing tasks.', moon: '🌘' },
-  { name: 'Omutu', energy: 'Low', action: 'Rest', description: 'The ending of the cycle. Time to wrap up.', moon: '🌘' },
+  { name: 'Korekore Tuatahi', energy: 'Low', action: 'Rest', description: 'A non-productive day. Energy is low.', moon: '🌖' },
+  { name: 'Korekore Rawea', energy: 'Low', action: 'Rest', description: 'A barren day. Rest is essential.', moon: '🌗' },
+  { name: 'Korekore Whakapiri', energy: 'Low', action: 'Plan', description: 'Transitioning soon. Prepare for active days ahead.', moon: '🌗' },
+  { name: 'Tangaroa-ā-mua', energy: 'High', action: 'Act', description: 'An excellent day, highly productive.', moon: '🌗' },
+  { name: 'Tangaroa-ā-roto', energy: 'High', action: 'Act', description: 'A very good day for important tasks.', moon: '🌗' },
+  { name: 'Tangaroa-whakapau', energy: 'High', action: 'Act', description: 'Energy is abundant, use it to complete tasks.', moon: '🌗' },
+  { name: 'Tangaroa Whāriki Kiokio', energy: 'High', action: 'Act', description: 'A powerful day. Make use of the great energy.', moon: '🌗' },
+  { name: 'Ōtāne', energy: 'High', action: 'Act', description: 'A highly productive and good day.', moon: '🌘' },
+  { name: 'Ōrongonui', energy: 'High', action: 'Act', description: 'An exceptionally good and fruitful day.', moon: '🌘' },
+  { name: 'Ōmutu', energy: 'Low', action: 'Rest', description: 'The ending of the cycle. Time to wrap up.', moon: '🌘' },
   { name: 'Mutuwhenua', energy: 'Low', action: 'Rest', description: 'The absolute end of the lunar cycle. Complete rest.', moon: '🌑' }
 ];
 
@@ -55,12 +54,12 @@ function generateCalendars() {
   const calGuidance = ical({ name: 'Maramataka (Guidance)' });
 
   // Calibrate phase offsets based on a known authentic anchor date
-  // User provided: Tuesday 31st March 2026 is Ohua (Index 14)
-  const anchorDate = new Date("2026-03-31T12:00:00+13:00");
-  const OhuaIndex = maramatakaPhases.findIndex(p => p.name === 'Ohua'); // 14
+  // User provided: Wednesday 1st April 2026 is Atua (Index 13) to continue matching Hina
+  const anchorDate = new Date("2026-04-01T12:00:00+13:00");
+  const TargetIndex = maramatakaPhases.findIndex(p => p.name === 'Atua'); // 13
   const rawAnchorPhase = SunCalc.getMoonIllumination(anchorDate).phase;
-  // Calculate offset so that the anchor maps cleanly inside the integer slice for Ohua
-  const REQUIRED_PHASE_START = OhuaIndex / maramatakaPhases.length;
+  // Calculate offset so that the anchor maps cleanly inside the integer slice for Atua
+  const REQUIRED_PHASE_START = TargetIndex / maramatakaPhases.length;
   // Shifting the phase slightly inside the cell so that standard daily iterations land cleanly inside
   const phaseOffset = REQUIRED_PHASE_START - rawAnchorPhase + (0.4 / maramatakaPhases.length);
 
