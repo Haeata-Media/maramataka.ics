@@ -4,988 +4,714 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Maramataka (Full)
 X-WR-CALNAME:Maramataka (Full)
 BEGIN:VEVENT
-UID:cc7f02ae-bc1e-40bf-a93e-8e6e64325066
+UID:2e6e7edc-84cc-49cd-b763-72e198d3a53f
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260328
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore te rawea — Low Energy
-DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
- rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:476d918a-e52d-4e57-86e9-882460795c07
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260329
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
-DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
- d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
- ion of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:81f7cd59-7d13-4014-8ee0-59a88ac4f110
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260330
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a mua — High Energy
-DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
- nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:96d353fa-b8c0-4cfe-9609-627c8a99d8ad
+UID:41110f4a-363e-4ae2-af20-68148632746f
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260331
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a roto — High Energy
-DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
- Energy Level: High\n\nNote: This is a supportive interpretation of maramat
- aka.
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:60d63b0e-7a4a-47aa-80d0-e8b933b483cb
+UID:54ca0788-7b5e-4b26-94f1-f32b15a60a89
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260401
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa kiokio — High Energy
-DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
- us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
- f maramataka.
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:e4cf3c13-ce53-462b-9193-36a0ac16e57c
+UID:f52490a5-3822-44e1-84eb-f4d0495bba32
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260402
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Otāne — High Energy
-DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
- rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
- .
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d23380-fc47-4033-b4a4-1dce9bb80d8a
+UID:091fa8db-a2fe-41f2-a825-20456bf04576
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260403
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Orongonui — High Energy
-DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
- t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
- mataka.
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:948a1bd8-0e54-4eeb-8e3a-9e4a6dc8a7cd
+UID:3de26034-e0ee-45ca-80ce-2d8e1ad1c590
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260404
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Mauri — Medium Energy
-DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
- cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
- on of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:b4de9010-2cbd-4c44-96ee-a62052db9c2c
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260405
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Omutu — Low Energy
-DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
- Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
- ramataka.
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:b949a50a-f0f7-4cef-b049-9ac0df0b82b5
+UID:8510a222-a63f-4a9c-b897-80cfde1a3c99
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Mutuwhenua — Low Energy
-DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
- ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
- tion of maramataka.
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:5045a62d-3260-44be-8385-5ccce9c798df
+UID:75db31d6-9943-44c0-9254-c3e71b2c5d18
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260407
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Whiro — Low Energy
-DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
- ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
- tive interpretation of maramataka.
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:01d4f417-511d-4266-b54a-66fa88d309e3
+UID:ea80f8ce-91f2-45bd-9780-944edd3f68b8
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260408
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Tirea — Low Energy
-DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
- ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
-  of maramataka.
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:452c72a4-0070-4b27-b22a-cfedee4e2e86
+UID:7e36216e-b4cc-4773-ad49-6abb46ade740
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Ohoata — Medium Energy
-DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
- d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
- tation of maramataka.
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:80d9cb7b-e4d5-4b18-8b81-e882080a456f
+UID:56e9c0cb-50f2-410f-98c4-d878db185f42
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Oue — Medium Energy
-DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
- us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
-  of maramataka.
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:d1771406-7f61-4524-bcef-1dc10ee41311
+UID:bcb28ac3-1d8f-4fb1-a1b6-71c34af97b49
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260411
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Okoro — High Energy
-DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
- d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
- ion of maramataka.
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2650ddab-84b4-4164-9ff9-9c932e1806b9
+UID:1338187b-f8cc-4f31-b218-2023ce294f93
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260412
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a ngana — Medium Energy
-DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
- : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:109aada9-8655-4b30-bf5f-30f3ba762ae2
+UID:947b73f6-71a4-4bd5-929e-7be18a096242
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260413
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a hotu — Medium Energy
-DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
- rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
- ka.
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
 END:VEVENT
 BEGIN:VEVENT
-UID:b5efcab2-74a3-4f39-9c7e-494c8f71f6c0
+UID:59a531d9-35f1-476f-9070-b5124de41187
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260414
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a whio — Medium Energy
-DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
-  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:d5798cbc-6b50-4b3b-9e39-bb18438a085e
+UID:d8c6a482-1b47-4317-850c-cbc9e94ad0de
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea kai ariki — Low Energy
-DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
- s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
-  maramataka.
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:9d065f46-426b-4030-a66d-dfd8c250118c
+UID:48d94040-1a2d-440b-83c1-76a174039b16
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260416
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Huna — Low Energy
-DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
- cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
- of maramataka.
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ee5b9862-57de-489d-a170-7229e8b3e8ce
+UID:51c30ee0-9aa5-4cba-b704-be7e46c057e6
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260417
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Ariro — Medium Energy
-DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:a87c5771-51f6-49dd-9272-7b80a5a328b5
+UID:8d61b67f-9fca-41d9-862c-d225abfbeb12
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260418
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Mawharu — High Energy
-DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
- ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
- amataka.
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:44cb1c66-0706-42c0-bd28-813be137eac5
+UID:3cecc138-ee3d-4b4c-9c22-4e40ef84b4c0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260419
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Maurea — High Energy
-DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
- ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
- tion of maramataka.
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:794e4256-ce39-4feb-93fd-3b3b67dd6c4a
+UID:4d990e0f-bbce-4665-ac4f-d794ab6e8fa4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Atua — Low Energy
-DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
- us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
- f maramataka.
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:f0848b73-c0c4-4719-a8e3-9a9d5c55db4e
+UID:f59598fb-0c86-4a4a-8ea3-2d11060a1f96
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260421
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Turu — High Energy
-DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
- nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7cd528af-f654-4611-87ac-f2294f9dc4cf
+UID:c7d97e13-0eac-4ec1-857f-f1c0b7bff8ec
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Rākaunui — High Energy
-DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
- cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
- of maramataka.
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ccadd942-8660-423d-8bd3-c309791aa0ad
+UID:c298b5d1-a967-460e-9f90-615d1c47ef82
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Rākaumatohi — High Energy
-DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
- : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
- maramataka.
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ac20bc8c-fccb-4083-8706-6450b3247aa1
+UID:a1d4841c-a95a-49d6-9ab8-6024bc669d1a
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260424
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Takirau — Medium Energy
-DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:13910491-9e72-4c98-b9d2-b4cea5c66caa
+UID:b3c39363-1d26-4ffc-8378-8f1eec3249f6
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260425
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Oike — Medium Energy
-DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:fc4b2bfc-ca77-40f8-8eb5-93a0d205f477
+UID:0feefcf9-0df7-4cb5-bb78-10db4c0f5b97
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260426
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Korekore te whiwhia — Low Energy
-DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
- nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
- aka.
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:8601d2a9-2096-407b-a822-78b855d2b5e3
+UID:0a48051e-443b-4b3b-94a0-1251a5d7e165
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260427
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore te rawea — Low Energy
-DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
- rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:9dae9b53-e4b9-41c5-ae47-530171b8d171
+UID:b438fedc-ad05-42a1-a4e0-9b12f0d271fa
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260428
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
-DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
- d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
- ion of maramataka.
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:858d9e3c-dadd-4f80-a1c2-1bd6ffe26887
+UID:c29890d6-2623-44fe-bf72-73e04217bdc8
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260429
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a mua — High Energy
-DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
- nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2fda91a3-8a4e-4463-9d99-995ce4465856
+UID:93ce7360-c132-4b53-a839-848be79ce5e4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a roto — High Energy
-DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
- Energy Level: High\n\nNote: This is a supportive interpretation of maramat
- aka.
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:73353c76-ab6b-4d1d-aa2c-05c54566af3a
+UID:5e454bde-9377-437b-9315-fd2922ede75d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa kiokio — High Energy
-DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
- us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
- f maramataka.
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:84a161f6-76e8-4d98-a50f-5944af668194
+UID:8a51888c-6353-434d-b4c5-cc6c86ee97e6
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260502
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Otāne — High Energy
-DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
- rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
- .
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2861c6c0-e8e0-4ab9-ad7c-3ad3d9bfd5d1
+UID:895ee4b2-bd5e-43e6-b3db-751c9ee6759d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260503
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Orongonui — High Energy
-DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
- t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
- mataka.
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:16a91d74-c49a-4cd1-9ecf-34c74b65eedf
+UID:e94a67d1-9ecf-4aad-b118-34fe5385118a
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Mauri — Medium Energy
-DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
- cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
- on of maramataka.
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7b87b2e5-4fbd-409c-8e48-ec487687ed71
+UID:7714eb3d-b079-45d8-8408-a0c71fa60f63
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260505
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Omutu — Low Energy
-DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
- Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
- ramataka.
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:0ed5d136-997c-4d3d-afe4-dbaf2dab1f5f
+UID:1abac128-5d08-4594-b5be-27b88dee91c4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Mutuwhenua — Low Energy
-DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
- ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
- tion of maramataka.
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:e8a43e90-d7b0-424a-b119-def34adc8f02
+UID:9f0b70c6-43d9-4218-be2e-ec48f0a3815f
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Whiro — Low Energy
-DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
- ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
- tive interpretation of maramataka.
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2eaae3ad-a48e-467c-ac40-a78025050e6b
+UID:f76d08e5-2897-415b-876b-0372d0cc265e
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260508
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Tirea — Low Energy
-DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
- ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
-  of maramataka.
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:5556877a-d917-453d-92f8-fde8c2a85599
+UID:7d3c7bd8-a1c0-4a6f-ae58-b66e8784159d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260509
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Ohoata — Medium Energy
-DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
- d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
- tation of maramataka.
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:3f43c916-dac7-4bcf-967a-d14986ba8cbd
+UID:2ff5d2ff-eb6c-4fb4-9d62-6eb57948a859
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260510
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Oue — Medium Energy
-DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
- us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
-  of maramataka.
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:8fb43b61-075a-4fd8-b859-0fbebdc42724
+UID:911df0bd-71a8-44e7-a384-1d66c015d216
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260511
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Okoro — High Energy
-DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
- d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
- ion of maramataka.
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7ad598f1-19ec-47a0-8458-80f3ddba37ae
+UID:bff888bf-08e0-4064-9908-ec6a57ef6a4e
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260512
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a ngana — Medium Energy
-DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
- : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:c02ac6d6-2bfd-4ca8-86f8-4605730275e4
+UID:8cb7cbdd-2ca2-4ce8-bd8a-013ad323dcc4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260513
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a hotu — Medium Energy
-DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
- rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
- ka.
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
 END:VEVENT
 BEGIN:VEVENT
-UID:f068c631-52d4-40b9-9ed6-dbb373576d82
+UID:71dcf653-c06d-485b-b82e-b1295c5cbdfb
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a whio — Medium Energy
-DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
-  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:a1133364-8445-4518-ad00-1daee0f36fc5
+UID:a26d662a-5be5-41ff-9903-2165d42de7c0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260515
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea kai ariki — Low Energy
-DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
- s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
-  maramataka.
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:edc11c46-6e64-464e-b430-447bf650ba46
+UID:322a7806-5605-4e4d-92b8-64eed256ca1c
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260516
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Huna — Low Energy
-DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
- cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
- of maramataka.
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:b2fdcf67-f62b-4ed6-a674-77d7ab73853f
+UID:42b497b8-7ab5-46a4-9eff-655daca0bf83
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260517
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Ariro — Medium Energy
-DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:9c1aba3c-8ae4-4770-b153-c995570b27ad
+UID:2dc2c54f-6638-42c3-ae6d-a5ee5e9ab9b9
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260518
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Mawharu — High Energy
-DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
- ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
- amataka.
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ec23b89b-789c-4017-b71c-a356c60f3ccc
+UID:43785c57-a265-4d4c-b86a-756d9b6bd314
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Maurea — High Energy
-DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
- ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
- tion of maramataka.
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ea7e1c79-6204-41ca-8f54-f97acbfde8fc
+UID:b3bf329c-4f1e-47a5-b12c-44ef7a784100
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260520
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Atua — Low Energy
-DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
- us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
- f maramataka.
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:63e1d8eb-2bda-482d-861b-0ab595acd6d1
+UID:c81dabef-6150-4a65-9cbe-07ea7189d9fb
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Turu — High Energy
-DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
- nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:3fbadf10-6a57-4a32-8a1a-284e89f942ad
+UID:3fe1b322-c820-4ef1-97e5-e80c5832d959
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260522
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Rākaunui — High Energy
-DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
- cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
- of maramataka.
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:491d4ad1-3667-48d0-8f81-bf42dbbe1104
+UID:e2142bb7-7f8b-4a68-ace9-8c16f0848ee1
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260523
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌕 Rākaumatohi — High Energy
-DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
- : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
- maramataka.
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2d4ba607-a253-46bf-bba1-489e87556869
+UID:792000d4-944e-4462-ab10-6999dec57bc8
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260524
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Takirau — Medium Energy
-DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:6c68659c-72a2-4e36-84ee-8188648b51a2
+UID:5aca1247-c5e8-4139-8355-700e60dec038
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260525
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Oike — Medium Energy
-DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f4db1-73db-4b0f-8fa1-1d0d1fc4ddd5
+UID:b2ab7f13-3a6c-4681-b792-04354622e72c
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260526
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌖 Korekore te whiwhia — Low Energy
-DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
- nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
- aka.
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:b865ab27-5883-46df-b4f1-ff396b0cf8d1
+UID:29ca8b02-31a7-482b-9986-fb28bfa922b0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260527
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore te rawea — Low Energy
-DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
- rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:16c0709d-0be4-4714-badb-69bda5b8403f
+UID:7e0000b3-7529-4320-aba5-6ffc8e2d051f
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
+DTSTAMP:20260331T012131Z
 DTSTART;VALUE=DATE:20260528
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
-DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
- d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
- ion of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:475a9c08-a4f5-4985-a5cb-f9a5b915de43
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260529
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a mua — High Energy
-DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
- nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
- taka.
-END:VEVENT
-BEGIN:VEVENT
-UID:33999c20-6873-4f8c-ac5b-927834c7f9ee
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260530
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa a roto — High Energy
-DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
- Energy Level: High\n\nNote: This is a supportive interpretation of maramat
- aka.
-END:VEVENT
-BEGIN:VEVENT
-UID:84ed1a55-f354-4e06-ae54-1c17d586f902
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260531
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌗 Tangaroa kiokio — High Energy
-DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
- us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
- f maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:3af92dde-266d-4109-9424-9c752b8ef98b
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260601
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Otāne — High Energy
-DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
- rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
- .
-END:VEVENT
-BEGIN:VEVENT
-UID:d334d763-998f-44b5-b303-cd2d2d10ecec
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260602
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Orongonui — High Energy
-DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
- t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
- mataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:0b50dd77-ad0d-47ba-96cd-862668f1711a
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260603
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Mauri — Medium Energy
-DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
- cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
- on of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:35da0faf-3c15-4bfd-958c-b22d0f2e7ea6
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260604
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌘 Omutu — Low Energy
-DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
- Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
- ramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:1a7f9251-2607-4fd2-89b4-799a305e082a
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260605
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Mutuwhenua — Low Energy
-DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
- ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
- tion of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:29880555-924a-4788-9c9b-8f1c7b27f60d
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260606
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Whiro — Low Energy
-DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
- ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
- tive interpretation of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:e2e62ef8-57cd-42e8-a310-a526d0029b6f
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260607
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Tirea — Low Energy
-DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
- ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
-  of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:dc7b3b22-f2c7-4bdf-9517-7900aae8f643
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260608
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Ohoata — Medium Energy
-DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
- d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
- tation of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:8eba52ec-c1ff-41c2-b09f-49d0b9ac3df2
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260609
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Oue — Medium Energy
-DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
- us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
-  of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:a107a674-f281-4618-9f5f-96f1f5ef7540
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260610
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌒 Okoro — High Energy
-DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
- d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
- ion of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:aa01ab01-303b-4ec4-a8e7-f9af314b6717
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260611
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a ngana — Medium Energy
-DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
- : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
- f maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:fa5514cb-0e87-4f77-a2e0-e3c91ab921a5
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260612
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a hotu — Medium Energy
-DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
- rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
- ka.
-END:VEVENT
-BEGIN:VEVENT
-UID:004bb5bf-93ad-4bba-b568-6b05dddaf197
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260613
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea a whio — Medium Energy
-DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
-  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:47205b06-6635-4aae-a97a-f04a89685054
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260614
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌓 Tamatea kai ariki — Low Energy
-DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
- s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
-  maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:3fc1e954-1239-41f2-af44-56e4be004a7f
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260615
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Huna — Low Energy
-DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
- cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
- of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:2f87728d-9162-4230-aaf9-aeb720dbddf7
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260616
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌔 Ariro — Medium Energy
-DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
- nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
- taka.
-END:VEVENT
-BEGIN:VEVENT
-UID:a51a21ac-e1f5-4ca4-82f5-7dbece3223a2
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260617
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Mawharu — High Energy
 DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
  ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
  amataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:356844aa-dbe0-40d4-b761-4b4c23f3aa3a
+UID:e893cc57-11f1-4814-9dbb-722932959b58
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260618
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260529
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Maurea — High Energy
@@ -994,10 +720,10 @@ DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
  tion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:eff14a34-6582-4bcf-998b-1e1a52fe4087
+UID:b24bd160-dbf2-462d-88cb-36abaa9938cd
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260619
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260530
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Atua — Low Energy
@@ -1006,10 +732,10 @@ DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:35e1623f-4840-4b19-914b-1101df2afb92
+UID:cdd7ff28-db31-4e9f-b5c0-2c4cb19f1955
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260620
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Turu — High Energy
@@ -1018,10 +744,10 @@ DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:401b12ac-8cbb-47ff-aab5-d321378863a4
+UID:f9b2934e-b4d1-4923-8bee-c9955cba7a50
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260621
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Rākaunui — High Energy
@@ -1030,10 +756,10 @@ DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:18fffcb5-9815-4445-b4a1-4ef3926be81d
+UID:d2b94eb3-c910-48b7-a78a-44f623a88c4d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260622
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260602
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Rākaumatohi — High Energy
@@ -1042,10 +768,10 @@ DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
  maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:f74f382b-d2e8-43ee-8f11-8bfdc9737cf4
+UID:82e97732-87d1-475e-83b9-211f68e4f5db
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260623
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260603
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Takirau — Medium Energy
@@ -1054,10 +780,10 @@ DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7264f492-dc84-4be7-8e93-50aff13ca9d3
+UID:b75f2c72-4d89-4587-a31b-edee1099676d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260624
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260604
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Oike — Medium Energy
@@ -1066,10 +792,10 @@ DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:a9c1af79-8136-4f03-8e4c-3204b5904a6d
+UID:66d73821-761f-4d87-86ac-978b234420ab
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260625
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260605
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Korekore te whiwhia — Low Energy
@@ -1078,10 +804,10 @@ DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
  aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:dd2f1096-5e0a-4592-99d8-c9284769e222
+UID:76affc6f-f8a1-4664-8ba9-eeda3ad7d99c
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260626
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌗 Korekore te rawea — Low Energy
@@ -1089,10 +815,10 @@ DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
  rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:1cf6d41a-a881-4333-8344-a4047abb87b2
+UID:61931539-24cd-4ebc-9dfe-10de7d7aa489
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260627
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
@@ -1101,10 +827,10 @@ DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
  ion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:b2e9188b-b985-4f21-bdc8-81a7333a8668
+UID:5c2da9e9-b1a5-411f-bbd6-c71e253cb0f9
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260628
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260608
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌗 Tangaroa a mua — High Energy
@@ -1113,10 +839,10 @@ DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2153ae26-c6ab-4e49-b635-08a6671e7136
+UID:094b3452-cc78-4ceb-b3cb-9c6ea261be5f
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260629
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260609
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌗 Tangaroa a roto — High Energy
@@ -1125,10 +851,10 @@ DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
  aka.
 END:VEVENT
 BEGIN:VEVENT
-UID:98896db5-1d20-484d-836e-311245ea67cf
+UID:222861ae-44f5-4bfa-924c-498f5e92ac14
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260630
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260610
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌗 Tangaroa kiokio — High Energy
@@ -1137,10 +863,10 @@ DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7dab150d-d697-48ca-8812-c48d41d02aec
+UID:3cd8b775-b732-463d-b63e-1dd7639de116
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260701
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260611
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌘 Otāne — High Energy
@@ -1149,10 +875,10 @@ DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
  .
 END:VEVENT
 BEGIN:VEVENT
-UID:db267406-4574-4bac-8fbb-59e0ad930dd0
+UID:face4417-b67e-4f61-8ef1-dd0fd153ca81
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260702
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260612
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌘 Orongonui — High Energy
@@ -1161,10 +887,10 @@ DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
  mataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:1d0bcf8f-9c93-40f2-a2d7-4d7fc043717d
+UID:b4584597-e03d-44fb-afba-a7e5595af8c9
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260703
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌘 Mauri — Medium Energy
@@ -1173,10 +899,10 @@ DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
  on of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:00372c91-73d4-4174-b321-f31f0207ac0b
+UID:c5fd3500-8636-47d5-b7cf-3257258e6839
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260704
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260614
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌘 Omutu — Low Energy
@@ -1185,10 +911,10 @@ DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus:
  ramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:dc4b3e80-8085-4979-a0eb-d2c6384e0c12
+UID:2ce2978d-fe13-4bba-9422-a6e67caa18c0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260705
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260615
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌑 Mutuwhenua — Low Energy
@@ -1197,22 +923,10 @@ DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
  tion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:25fbc6f1-2f88-4f3f-b99e-0e06dce4d5d8
+UID:abf0513a-75ea-431b-818b-e5976d21114a
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260706
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:🌑 Whiro — Low Energy
-DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
- ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
- tive interpretation of maramataka.
-END:VEVENT
-BEGIN:VEVENT
-UID:27e8e3ce-4a2c-4061-a46a-b9f6ce43dd01
-SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260707
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260616
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌒 Tirea — Low Energy
@@ -1221,10 +935,10 @@ DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
   of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7ac6d570-ec7d-4a2d-8ddd-b8274eb555d8
+UID:30f586cb-8e17-493c-9e36-ce36d6e6a66a
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260708
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260617
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌒 Ohoata — Medium Energy
@@ -1233,10 +947,10 @@ DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
  tation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:6eff71c2-68d5-46d7-ae78-13c880a20e0f
+UID:b566d536-186a-4ab8-8f81-c36fa7d18b31
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260709
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260618
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌒 Oue — Medium Energy
@@ -1245,10 +959,10 @@ DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
   of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:039a354b-0ac5-4e1b-a32e-45eae496fc2b
+UID:c9021df6-288e-481e-9884-dadee0ca7ea4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260710
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260619
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌒 Okoro — High Energy
@@ -1257,10 +971,10 @@ DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
  ion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:fd5e8b9b-ea5e-44ef-80ca-095f0f5c9e8e
+UID:524e047e-0697-47b7-b576-ec7e1f3fccd1
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260711
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260620
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌓 Tamatea a ngana — Medium Energy
@@ -1269,10 +983,10 @@ DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:726d2f8d-8775-41c9-9644-d2d9cd7fffe8
+UID:e98a8211-7980-45e5-8478-bcb126b2a485
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260712
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260621
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌓 Tamatea a hotu — Medium Energy
@@ -1281,10 +995,10 @@ DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
  ka.
 END:VEVENT
 BEGIN:VEVENT
-UID:f37c14ae-2fcb-4be4-9d2a-f535932d7224
+UID:d938edf7-de6a-4dcf-baf5-a7ce901dc119
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260713
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260622
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌓 Tamatea a whio — Medium Energy
@@ -1292,10 +1006,10 @@ DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
   Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:7fb932bd-01a7-4987-806a-62e83bbef8e8
+UID:e9db00e6-f705-4ca9-b7c1-ff98b1a42ec0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260714
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260623
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌓 Tamatea kai ariki — Low Energy
@@ -1304,10 +1018,10 @@ DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
   maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:5943e65a-b8af-4a7c-ac6a-e7327e61b72f
+UID:7f90a58e-4be9-4754-a0d7-8da3681200c4
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260715
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260624
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Huna — Low Energy
@@ -1316,10 +1030,10 @@ DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:4aa88f03-5b9f-4eb7-a673-20388cf74c02
+UID:7e001943-4de2-484b-a6b0-516610d8bc80
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260716
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260625
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Ariro — Medium Energy
@@ -1328,10 +1042,10 @@ DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:116d8527-90c4-437a-9582-836c8743470f
+UID:f1caa044-dc1c-4dc4-8f4a-8f64a3a1873d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260717
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Mawharu — High Energy
@@ -1340,10 +1054,10 @@ DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
  amataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:fe39c9c3-7e11-4f83-a540-8158eefdc653
+UID:ddc795ce-c86b-4d3b-b3b6-4fb18129c961
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260718
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260627
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Maurea — High Energy
@@ -1352,10 +1066,10 @@ DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
  tion of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:9d6d0e95-bb9f-474c-919c-5bf892ef22ca
+UID:29382f66-8db0-4bc5-b619-810a3a92028d
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260719
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260628
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌔 Atua — Low Energy
@@ -1364,10 +1078,10 @@ DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
  f maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:df0a5a55-2311-4c14-8402-f0bdbb58e0bb
+UID:bb3e4148-6196-4f7a-bbe1-828d09fb4153
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260720
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260629
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Turu — High Energy
@@ -1376,10 +1090,10 @@ DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:12e6e38a-8920-46b6-a7a1-04921cfa25d9
+UID:3550dd55-bfe8-4b0c-9e75-922eecd67f06
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260721
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260630
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Rākaunui — High Energy
@@ -1388,10 +1102,22 @@ DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
  of maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:2f96ffaa-cc50-4b55-bf6b-6b6a49895478
+UID:6d6b8285-5cb5-46cd-a9d2-4503771da0e0
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260722
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8b5418-3a40-40fd-9da1-7308106fd878
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260702
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌕 Rākaumatohi — High Energy
@@ -1400,10 +1126,10 @@ DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
  maramataka.
 END:VEVENT
 BEGIN:VEVENT
-UID:1e2b5032-580b-4689-ac68-79ce203f4a58
+UID:49e855e2-40fa-4b76-9fda-dd636004fb2b
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260723
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260703
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Takirau — Medium Energy
@@ -1412,10 +1138,10 @@ DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:62387219-4730-4967-aae6-fb504f0a73fb
+UID:c6bdb49e-08a3-4907-9cc5-6db02847d8e7
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260724
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260704
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Oike — Medium Energy
@@ -1424,15 +1150,3213 @@ DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
  taka.
 END:VEVENT
 BEGIN:VEVENT
-UID:30aeccd7-d352-47b6-94c4-6ccbc0506024
+UID:34d9f4c9-c3f0-4c70-be54-2012cdf43f69
 SEQUENCE:0
-DTSTAMP:20260329T070620Z
-DTSTART;VALUE=DATE:20260725
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260705
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:🌖 Korekore te whiwhia — Low Energy
 DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
  nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
  aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e559c559-85ab-4efc-be60-3f2606dd99a3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260706
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:14d723c4-37bf-4ab1-ac3c-b1372931f1f4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260707
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:400f6b28-7ea0-4845-9abe-4b87ef508bc2
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260708
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:54890694-cab8-4431-9667-d19c735339aa
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260709
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:98673fcd-d33b-4a1c-bd28-4432e96794d3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260710
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:b7cf9611-280c-4673-a481-1822b03cd182
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260711
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5914ec3c-51fa-40d2-9720-466801a752c6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260712
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:da24de26-8237-4cc7-9858-e22783c037f3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260713
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e507e5-4427-4eba-a67b-c6405b58802f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260714
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9018234-4cf4-4059-9bac-bce5f12f8169
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260715
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb86189c-afd1-425a-80be-eaf457290a22
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260716
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b36f0499-ac56-4f6e-92c8-45f7ba9d89ee
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260717
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0633ccc7-a9e1-453b-9802-acb984922203
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260718
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f17a1c4f-0469-438a-bab2-422d545aa818
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260719
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f7feee-c360-4517-82e7-8e7e3c486691
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260720
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:01c4b213-fc5a-4bcf-8469-e6d34a2ff3d5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260721
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8210a347-99f2-4765-a7aa-ca6896be3df0
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260722
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:70eb7af0-b524-4e3f-b5e8-bcdd4a9e2643
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260723
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:53489b4e-ff18-4597-950a-e4806465f76e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260724
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:74a2048e-1941-4a8e-b755-2f3ea56329c1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260725
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:181abf2d-14a1-4086-a629-ea380f92cab4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260726
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:03c0c545-ce69-4fa3-9120-76bf00bdf56e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260727
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:37b73dae-b016-48f9-9f7f-533d8e783a3e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260728
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:52ecfbbb-142b-4c4e-9bbc-31c1d7704563
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260729
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:03719dc8-34c9-4610-a39c-fb5fe58360be
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260730
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f97244d-c0ca-41bd-afb7-9d60581783c9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260731
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba13ec8-81e3-40df-b355-536c85f637a5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1f45bc-42e7-484c-b6d3-1d48e112a1fd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260802
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f5c14f-8e17-4d80-8290-ab840790b044
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260803
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fefcce5-0c2f-4457-9413-1afcb377034a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260804
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4a3ffa-da0a-402f-8737-ecb1ef76d019
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260805
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:184550fe-2456-4d12-8510-0e0212099b23
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260806
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a05c4f4e-71f5-4f73-929e-922e4f91ff8f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260807
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d459ba7-ddb9-4f98-9265-6fdcf05c1379
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260808
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7946dc43-d80a-409e-878e-78dc58909aaa
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260809
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:08372550-8728-4a25-af2e-a59d4244151a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260810
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4834e02c-4dcb-4812-843a-eea9f9af5f74
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260811
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:413e6310-5785-49e7-91e1-ce54e1cd011d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260812
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:33afdfbc-283d-4f38-af86-646934a5a6bd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260813
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5733ba9b-fb2e-41b1-a0e8-9f0a4c9b9924
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:430873bd-94ef-40e7-8832-4fab9a5b82ce
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260815
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:797544bf-b121-4e94-8054-3187df115770
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b4f2426-815e-4803-bf81-ebe84e002f8f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260817
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1324fc-2b89-4306-8f89-5ad86d4c3c32
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260818
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:148a759c-de32-4606-b770-372436d2816e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260819
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:25b6b2f0-e5a6-419c-9b8e-e2a54e22c03c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260820
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2e1a0e-0f7c-468c-b392-f692e19fb35a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260821
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:06f3ef64-c725-4da0-8976-7639d3f33a6f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260822
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:64537bfe-70b0-461f-b321-ac00ff4caa1d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260823
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:54b94e8e-d9e4-4654-992d-1167a9e5719e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260824
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:48933b41-e141-492c-b7db-78c9d1c13c97
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260825
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:77ef1e89-e478-4531-bb2a-2eebebd36aad
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260826
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe19ddb-8be0-4482-8ad9-5585644996be
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260827
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7a944336-b86c-48e6-8668-b2a72fbc6d47
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260828
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:be4bca4a-bae0-4d32-bf8c-f587c588f16f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260829
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b101f215-357f-4242-86fc-07424d88a1f7
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260830
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f3f36f-46dc-4b15-b120-d59b20b25ea5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260831
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3312db3-89a9-433d-9eba-eb17f63ab532
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260901
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:87112ac3-224d-4e05-a9e4-cd847dd0413c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260902
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9725896f-a6a3-4da3-997a-96c15b43ab1c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260903
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:fc777cfd-dad8-42f7-b6e8-9af121448d66
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e3be9b-caeb-448c-b245-e66d1567bd8c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260905
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f242f5ef-18da-4501-97a2-f58738f6e43f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb3abcb-7610-44ab-9628-dab8184f2648
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6c71a3-3709-49fa-aa10-d70249ed63dd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260908
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fcfe6c2-c517-4d20-b109-1e6a5921e1df
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260909
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4479c2-d057-4a03-b974-055647055853
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:27f0d2e5-6f84-42bf-b692-3fc1c6018125
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260911
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1862d42f-2635-411d-97ad-828729f810c5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260912
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:500f3351-2d48-49e2-983e-fb4183c68c17
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260913
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:86258f76-ede4-4ad7-8082-538e50dca568
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260914
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff79c5bf-06c6-4ff5-9c52-4ffcc2513c5c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260915
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b586d9-74fd-4a8c-947e-24455d2695e4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260916
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8e2171-4e8c-458e-828d-8a42a6e69c08
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260917
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3517e93-715a-4a30-9bb3-4a81b55510de
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260918
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b2e1bf3-ebbc-4007-ac77-1d40144030ac
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260919
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:62f6d324-fae8-45cf-8cc5-6f2e158fb955
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7107fb7d-e060-470b-96a8-04984482c936
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260921
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f63b875f-23dc-4989-8aa9-3c6fb8994bc7
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260922
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1af5e1-8bbe-4096-85a4-18ed393a4da9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260923
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba72f0c-ed72-41b1-8154-0bfb2ceee924
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260924
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a724dd33-3510-4b83-a768-9d20223963d5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260925
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f66ea39-d865-44ec-a4af-22429a8211c3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260926
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:926648c6-33ae-4bfe-87f1-130a5516d8d9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260926
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c48bf6ca-2b54-42b2-9044-803fb7c78dd2
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260927
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad4db07-dd77-46a7-b298-97358f7f2691
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260928
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:df234769-fda1-461e-ac96-8968ce7966ac
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260929
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:59669507-8976-4229-9eb4-cdcf77daa1c4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20260930
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a69e7700-d0f2-4648-8f29-79716d50cedb
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261001
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f59768a9-e4f3-44ab-962b-5018308d3380
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261002
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5211eb-0a10-4efd-b771-a968e76c9fc0
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261003
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc29f1b6-0019-4e1f-a674-d297a8e4eece
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261004
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2dbf95cf-ee3c-4634-9a38-8ede4801296c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261005
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:10f3d82e-bfc8-4699-a7c3-426cbd5c37b3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261006
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c809f649-5c4b-46f7-8eed-fab3213f2c38
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261007
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:479c6f40-c1dd-4f66-9faa-b10f1270d60a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261008
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:64b7aa1f-4af4-46de-9cd0-09b29a207f80
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb49ef22-dc24-4ad7-aba1-0617f28b2c81
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:152ac285-5931-449d-afb9-087022c6eafe
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261011
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:71d8375f-fec0-4d7e-a2e4-8f1cf08f4aa2
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261012
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b07bdaf-2b49-4351-bb13-d44b132614ef
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9adc5e1-fd87-4ae1-88c6-6ba30a0062d7
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261014
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:88d74af9-be67-44de-ab9d-026ea72c80a3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5558a15b-e39e-4058-8d46-c61d3082ea70
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261016
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd78058-01af-43a2-876a-db1218a79d4c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261017
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b5b5ce-040e-4b9f-b015-3483fa0111c0
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261018
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1806a59-6ba4-4a67-9523-56428b2d4cfd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261019
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c30e8f1d-e509-4211-bf7b-3270c420f05c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9137b060-2f12-4ec7-990d-d42d0cf59719
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261021
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7404ea3d-aa4f-4c91-bcaa-5c5dd37a78e3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:45519566-7bcf-4083-9ad5-add784bb8ce5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:63900c47-1d9e-41f3-98b1-c1592deddca8
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261024
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:69ef9853-b999-490e-93a9-5610d34af892
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261025
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3be995-9062-437b-9656-25858ccdda33
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2319175f-e7e6-4f64-b567-f88e58284552
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e69a1f02-6361-4705-9f22-a9de0dcfbada
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261028
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:69f96de3-50f2-4983-b6d5-80df56951122
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f51f55c3-7fcb-49e2-976b-275d52aa06d6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261030
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b45deca-f9e8-4e71-ac30-7baa415417e4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261031
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1196862c-1d44-493a-8327-9552122febbc
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:faef2eb0-01c7-47b1-b255-9f77ebf82a87
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:98e2f1a3-10ca-458c-a359-a568c3cd7833
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce49d4b6-f9e4-459f-b8b6-b3213223c872
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:ed704c4c-bafe-43b6-bc8e-52580c5ef0e4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4262802f-7a45-4fc1-9c6b-fa2f3c6b1eb9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:21d26e9a-2a02-4bba-91dc-819affe3c1d9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e13ee477-7c59-4c22-adc2-c278d8b197e6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:baa3016d-400f-4619-bb10-5999c835fdff
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9439588c-6fe1-4ca4-96c0-b0938d05418d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5037db-02d2-419d-8f08-f4aae575fb69
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f79c95ce-2ce1-4f13-861c-e2b1130b1852
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:14b161da-9c1b-48be-9eb6-91cb94653595
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5b774c-7f2e-417a-994c-0c8c2dde2320
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8fde0f1-939b-4eea-b8ea-794b82e873d6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:729b95ed-1530-4f01-8fb4-96f63b494808
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c12d6fb-7923-4dc8-b41e-a6cc4a790e03
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:41c4e230-8df5-4779-9f46-aeb506005c91
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:26ab0330-56f5-4ccb-9484-dcb03c71f680
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:01a1ef2b-cea2-4966-b561-336574c94bea
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f424877-c0f0-4af1-ade1-a4315058ad96
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b546b99-a8f9-4968-a5db-bc5ff26a77ee
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:30be6f41-8d65-4f32-bba6-a2fb903b4f6c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:efc67a59-d7f4-4e31-8403-8378f079b1a8
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a18bbeb6-0d89-44ee-b11c-c6e8ac383832
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d702e937-86d9-41ca-975b-e5be6c5e7e7c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2313a93-75b7-47fc-bfc4-b13f04f0f24b
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:26e6101e-12fb-45ab-a856-bca2afa49920
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0df968e5-474f-46bc-838f-f407a1e1bc16
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:43e2c405-c1f3-4940-bbbc-7bd6e6878c04
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f06f32de-e892-47e7-a560-25f7b4cb7129
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b6d1a77-7753-4d04-a54b-e11b0a83b9c5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd78958a-16af-4585-85c6-31e9a176fc15
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c24714-6442-4ca9-a4b3-2bdb5836fd9e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d153c39a-6e67-4c74-9b70-c85ce237b3f0
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:20ecc6b5-327f-4a4b-841c-4b415478c6a1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:13272981-f0b5-48a9-bd9e-47c1debe354f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff6a561-0ddb-43c6-80a1-00cd347fbcd5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:10a1e611-f0c5-46cd-8e1a-adc829dc3af9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:acdf524e-8388-40cd-874d-4b7e39c1bb9d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0dc5dc8-a69c-4686-b9ba-903c0f80c3b6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f39dcfbf-d216-4f7b-aacc-c9e4d8d9579f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:106d7c07-0355-4d7a-9daa-3c37400c9730
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd464cd-3735-450a-80c2-648fe54f775c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:38619939-b5f3-4bdf-a37a-f5f249222f6a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:42055ad6-96d8-4be5-af29-7019a69ba399
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6744b8e4-1610-45f5-8522-6c51d5861791
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6191e68f-8494-4403-9e65-58d2b57a70a3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f493a19-2fac-4baf-b29d-0ee93568e896
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a49b821-bbc3-4f50-bb00-bffc478ca0dd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:53931c89-d944-463a-ba90-8994726ffb39
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8012a38e-8705-440e-9aba-041019b30842
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ae64bbf-6ae9-4187-972d-486517bf1fb5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9bf9bae-f4f9-465f-a4ef-8876d41adb3b
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c616c00-9f22-4491-85df-c8603e2aa1eb
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7a70fc95-6edf-46ab-8748-76dcbcc008b9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0893f50-c3a5-4771-b945-442523940192
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f2cb6b0-eea1-4794-b0da-ed573608ee0b
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c24d7c2-0e68-4551-a9f4-f54c39856c6a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b66c2bae-53d8-44fe-a065-9c1300faf3a1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261230
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:232ff32d-533e-45a0-ad39-e8a9ddb6bd6f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20261231
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:bab0371b-32a6-4b57-a066-a69f0770c44a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3aaf03e6-06ca-4897-92a6-6fe6e1b05b0a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5b3422-097e-4072-9c11-fcbb91a40f47
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d35d27c-ada3-4b59-bf52-078fada716fa
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:471e1a97-2b88-4ee1-897e-85f1c4a7eff1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc326d70-dc7b-4132-910b-379359c4b487
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7572036-3533-417a-9685-dc72c650fd65
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1ddcef-d194-4515-9eca-b39c80a335f0
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b44597d0-78f8-4639-844a-a573f9944418
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4de5f840-8787-4fb5-be9a-93d334e1d0d4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:86c1fd5b-bc94-445d-9ed1-cc1d5cd658e6
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0bc4e2-6d39-452b-91bd-a04bf2cd6d41
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:713f1b0f-6291-4040-996f-40b51bab0a65
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:60664060-7812-4d94-b1ca-5f7512dc99d5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:423af041-25aa-482e-ba7b-d6afb10ccea5
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:377bcb24-41f7-4d8a-9b32-6375104bb917
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:978ce29a-f8c7-4864-8cf1-b5193ce0c1f3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b747da37-83e1-4980-860c-91c467bb0c12
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:122617bf-e955-4e1a-a874-1b76ad449f6b
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:2efb36a2-3723-4946-a615-31566df4f95e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:82209d6d-6b85-4938-80dc-c4a2ecdd77fa
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd23cb4-5988-405c-be42-f9ee623d431e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:98203718-4bf2-4025-a7bb-659d145ccc96
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea764333-bb80-4519-98e2-9bd8016abf16
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7d53b3-81ee-478e-9309-035f487b6022
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9332d1-4f21-4c14-9be9-d6a8edb4ab29
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3483a839-7764-4073-8106-ce10dc2e6afd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3025db-a49c-4dbf-b1fa-07044a63ba1d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:358689e4-11ad-4be8-97d8-bbced153a1fc
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a87555-3c21-4172-918c-4dffa0daec64
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9f716d-dd4a-4da5-ba8d-8438277a7e60
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270131
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0682464b-4f12-43e0-af0c-5662d30820d3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:42af10c3-12b3-4a17-aa4a-1dcbc66e2b42
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8768c15-a8fa-4d8f-a8db-d6328c7f47e7
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e3d13d-7236-4bc8-8ca8-ad80445b8470
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d95c80aa-c973-45df-a2da-de2ad5330188
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff61c7e-29a2-4ff5-bff7-87331b6d5656
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:dec13960-0ecb-4f5d-a819-e0f714e18e2b
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:54753d9b-26e3-45ae-928a-04a5accd4599
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bfbe0ac-b610-4692-bd92-269ca9318a95
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f488a12-6958-4b0f-b177-2f7e7407fc31
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3ccc77-8461-4edf-b49a-4f28baf4eeb4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b28aa2a-76fe-4339-b7eb-e0b6a9e0200d
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0282ba68-21d6-4cbb-aade-5563238dbd76
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a61b7d8-1e56-425b-a115-9482af52df78
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea kai ariki — Low Energy
+DESCRIPTION:A difficult day. Better to observe and rest.\n\nSuggested focu
+ s: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of
+  maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:081dbd64-83ba-4748-a5f3-cdfe29890706
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8035b23b-539c-4564-a0a3-22aa1bdf3541
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:05fa3e9c-142b-4845-a0ba-c708eccf7c8e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:02c0ebe6-69db-4efc-98f3-871f300b148a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0164eb4f-1d67-43f1-a52f-0412909b1651
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1684c3c1-f36e-4827-af74-675a3dc4cccd
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed41adad-ab88-4e8d-931a-7b188c7603a3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:87d1f187-83e0-4b09-a4dd-46d316a7d401
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8bdee83-2e2f-47e9-b0ea-69087f9fc71c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:83d7197f-7b4e-4275-9445-58d0d49595c3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a699e8d5-4efd-46d8-91b7-0e44a9a41a1a
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d120fdac-7ab1-4067-9ec8-d3258872eec3
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:70e69a29-6fc5-4e62-824f-0113b7ea12c4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:04a6e110-1ac4-4a7d-bf90-6bd1d29311eb
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a roto — High Energy
+DESCRIPTION:A very good day for important tasks.\n\nSuggested focus: Act\n
+ Energy Level: High\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:349f9a9b-18ae-43b9-98cf-cd17e9d7a34f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270301
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:80389e32-421d-4a52-9e1b-4fa232436792
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270302
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa kiokio — High Energy
+DESCRIPTION:A powerful day. Make use of the great energy.\n\nSuggested foc
+ us: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:b75b2b9a-3a3c-400c-9942-b229d9397cbc
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270303
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Otāne — High Energy
+DESCRIPTION:A highly productive and good day.\n\nSuggested focus: Act\nEne
+ rgy Level: High\n\nNote: This is a supportive interpretation of maramataka
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:51a7aba0-d8de-4043-b964-318c19613ec2
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270304
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Orongonui — High Energy
+DESCRIPTION:An exceptionally good and fruitful day.\n\nSuggested focus: Ac
+ t\nEnergy Level: High\n\nNote: This is a supportive interpretation of mara
+ mataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f62bc03-aeb1-4927-80ab-8746bf1dafc2
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270305
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Mauri — Medium Energy
+DESCRIPTION:Energy begins to draw inward. Finishing tasks.\n\nSuggested fo
+ cus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpretati
+ on of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d83d5b97-c2f8-4018-ba2e-68c53a96ed5e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270306
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌘 Omutu — Low Energy
+DESCRIPTION:The ending of the cycle. Time to wrap up.\n\nSuggested focus: 
+ Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation of ma
+ ramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2c7de0-de12-4225-9451-11d707c4aeb7
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270307
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Mutuwhenua — Low Energy
+DESCRIPTION:The absolute end of the lunar cycle. Complete rest.\n\nSuggest
+ ed focus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a147a537-391f-41a5-8722-4237009136b4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270308
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌑 Whiro — Low Energy
+DESCRIPTION:Lowest energy day. A time for rest\, introspection\, and plann
+ ing.\n\nSuggested focus: Rest\nEnergy Level: Low\n\nNote: This is a suppor
+ tive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:fef58052-73d6-44d3-a534-2a54200160d1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270309
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Tirea — Low Energy
+DESCRIPTION:Energy is slowly returning. Gentle preparation.\n\nSuggested f
+ ocus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:27d697ae-8de8-45bd-ae47-0f9d1a030453
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Ohoata — Medium Energy
+DESCRIPTION:Energy is building. Good for starting small tasks.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Medium\n\nNote: This is a supportive interpre
+ tation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1cf247e6-a8f9-4744-8bbd-2f34a9e2ebfb
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270311
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Oue — Medium Energy
+DESCRIPTION:Productive day. Energy continues to increase.\n\nSuggested foc
+ us: Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation
+  of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:8089ccc1-5366-45b8-b336-e3428fe29a20
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270312
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌒 Okoro — High Energy
+DESCRIPTION:An excellent day for important work and gathering.\n\nSuggeste
+ d focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:64b47cfe-611d-4f72-bac1-29986c24cb15
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270313
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a ngana — Medium Energy
+DESCRIPTION:Unpredictable energy. Proceed with caution.\n\nSuggested focus
+ : Act\nEnergy Level: Medium\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:1779389a-932e-44f5-bfcd-4fde88c43c25
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270314
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a hotu — Medium Energy
+DESCRIPTION:Unpredictable weather and energy.\n\nSuggested focus: Act\nEne
+ rgy Level: Medium\n\nNote: This is a supportive interpretation of maramata
+ ka.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6503a09-06ae-42a8-8f6d-65a7f56816a1
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270315
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌓 Tamatea a whio — Medium Energy
+DESCRIPTION:Varying energy. Stay grounded.\n\nSuggested focus: Act\nEnergy
+  Level: Medium\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c734c6fb-9d97-439f-bf9c-5d544144b55c
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270316
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Huna — Low Energy
+DESCRIPTION:Things are hidden. Not a good day for seeking.\n\nSuggested fo
+ cus: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:263b5ce9-63f5-4fc4-8a83-e2017d5b78e9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270317
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Ariro — Medium Energy
+DESCRIPTION:A quiet day. Good for light tasks.\n\nSuggested focus: Plan\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfb4fed-d4c3-460a-b84f-afe242a7302f
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270318
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Mawharu — High Energy
+DESCRIPTION:A very favorable day for all activities.\n\nSuggested focus: A
+ ct\nEnergy Level: High\n\nNote: This is a supportive interpretation of mar
+ amataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:62da68a4-f204-4d84-9d18-27b07a537b7e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270319
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Maurea — High Energy
+DESCRIPTION:Good for connecting with others and important work.\n\nSuggest
+ ed focus: Act\nEnergy Level: High\n\nNote: This is a supportive interpreta
+ tion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e8da49-f9e5-4af2-8e5c-7601075dc417
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270320
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌔 Atua — Low Energy
+DESCRIPTION:A tricky day\, energy is strange. Be careful.\n\nSuggested foc
+ us: Rest\nEnergy Level: Low\n\nNote: This is a supportive interpretation o
+ f maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:51452441-5b7b-4fac-9c9d-148550176277
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270321
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Turu — High Energy
+DESCRIPTION:Energy is at its peak. Gathering day.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:a335d9da-1a4a-43c7-b53c-c8f88b8df7d8
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270322
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaunui — High Energy
+DESCRIPTION:Peak energy. The full moon. Highly productive.\n\nSuggested fo
+ cus: Act\nEnergy Level: High\n\nNote: This is a supportive interpretation 
+ of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:272dcc36-fda9-4c59-a770-57a4634b0e13
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270323
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌕 Rākaumatohi — High Energy
+DESCRIPTION:Excellent day. Energy is still very strong.\n\nSuggested focus
+ : Act\nEnergy Level: High\n\nNote: This is a supportive interpretation of 
+ maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:78c39e45-8cef-4f70-8ca7-2e3a5f21b5f9
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270324
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Takirau — Medium Energy
+DESCRIPTION:Energy is beginning to wane gently.\n\nSuggested focus: Act\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:263801fc-63f7-4d9a-9629-d3761ca65950
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270325
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Oike — Medium Energy
+DESCRIPTION:A difficult day\, energy dropping.\n\nSuggested focus: Rest\nE
+ nergy Level: Medium\n\nNote: This is a supportive interpretation of marama
+ taka.
+END:VEVENT
+BEGIN:VEVENT
+UID:178d2a6f-bab5-4c9e-9719-4e1cf1185ed4
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270326
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌖 Korekore te whiwhia — Low Energy
+DESCRIPTION:A non-productive day. Energy is low.\n\nSuggested focus: Rest\
+ nEnergy Level: Low\n\nNote: This is a supportive interpretation of maramat
+ aka.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6196842-683b-4a6e-b5f0-936eb74b5086
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270327
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore te rawea — Low Energy
+DESCRIPTION:A barren day. Rest is essential.\n\nSuggested focus: Rest\nEne
+ rgy Level: Low\n\nNote: This is a supportive interpretation of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:aadccaa1-90b9-424c-9b39-ff63e08698cc
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270328
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Korekore piri ki ngā Tangaroa — Low Energy
+DESCRIPTION:Transitioning soon. Prepare for active days ahead.\n\nSuggeste
+ d focus: Plan\nEnergy Level: Low\n\nNote: This is a supportive interpretat
+ ion of maramataka.
+END:VEVENT
+BEGIN:VEVENT
+UID:0523d9e4-3d19-4e21-979e-533a6828103e
+SEQUENCE:0
+DTSTAMP:20260331T012131Z
+DTSTART;VALUE=DATE:20270329
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:🌗 Tangaroa a mua — High Energy
+DESCRIPTION:An excellent day\, highly productive.\n\nSuggested focus: Act\
+ nEnergy Level: High\n\nNote: This is a supportive interpretation of marama
+ taka.
 END:VEVENT
 END:VCALENDAR

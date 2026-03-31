@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const ical = require('ical-generator').default;
 const { addDays } = require('date-fns');
+const SunCalc = require('suncalc');
 
 const maramatakaPhases = [
   { name: 'Whiro', energy: 'Low', action: 'Rest', description: 'Lowest energy day. A time for rest, introspection, and planning.', moon: '🌑' },
@@ -52,18 +53,15 @@ function generateCalendars() {
   const calEnergy = ical({ name: 'Maramataka (Energy Only)' });
   const calGuidance = ical({ name: 'Maramataka (Guidance)' });
 
-  // Let's generate 100 days starting from today. Use arbitrary mapping for demo.
-  // In a real app, this should securely sync with the true lunar calendar
+  // Generate for 365 days starting from today to provide a full year calendar
   const today = new Date();
-  today.setHours(0, 0, 0, 0);
+  today.setHours(12, 0, 0, 0); // Calculate at noon for a consistent phase reading
 
-  // Sync index 0 with somewhat recently, e.g. let's just use modulo from timestamp
-  const MS_PER_DAY = 1000 * 60 * 60 * 24;
-  const startDayOffset = Math.floor(today.getTime() / MS_PER_DAY) % 30;
-
-  for (let i = 0; i < 120; i++) {
-    const currentPhase = maramatakaPhases[(startDayOffset + i) % 30];
+  for (let i = 0; i < 365; i++) {
     const eventDate = addDays(today, i);
+    const moonIllumination = SunCalc.getMoonIllumination(eventDate);
+    const phaseIndex = Math.floor(moonIllumination.phase * 30);
+    const currentPhase = maramatakaPhases[phaseIndex];
 
     const fullTitle = `${currentPhase.moon} ${currentPhase.name} — ${currentPhase.energy} Energy`;
     const fullDesc = `${currentPhase.description}\n\nSuggested focus: ${currentPhase.action}\nEnergy Level: ${currentPhase.energy}\n\nNote: This is a supportive interpretation of maramataka.`;
