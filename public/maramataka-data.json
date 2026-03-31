@@ -1,0 +1,2557 @@
+{
+  "2026-03-31": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-04-01": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-04-02": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-04-03": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-04-04": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-04-05": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-04-06": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-04-07": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-04-08": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-04-09": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-04-10": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-04-11": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-04-12": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-04-13": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-04-14": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-04-15": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-04-16": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-04-17": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-04-18": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-04-19": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-04-20": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-04-21": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-04-22": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-04-23": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-04-24": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-04-25": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-04-26": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-04-27": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-04-28": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-04-29": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-04-30": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-05-01": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-05-02": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-05-03": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-05-04": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-05-05": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-05-06": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-05-07": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-05-08": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-05-09": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-05-10": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-05-11": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-05-12": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-05-13": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-05-14": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-05-15": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-05-16": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-05-17": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-05-18": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-05-19": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-05-20": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-05-21": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-05-22": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-05-23": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-05-24": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-05-25": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-05-26": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-05-27": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-05-28": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-05-29": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-05-30": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-05-31": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-06-01": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-06-02": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-06-03": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-06-04": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-06-05": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-06-06": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-06-07": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-06-08": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-06-09": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-06-10": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-06-11": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-06-12": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-06-13": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-06-14": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-06-15": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-06-16": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-06-17": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-06-18": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-06-19": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-06-20": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-06-21": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-06-22": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-06-23": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-06-24": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-06-25": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-06-26": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-06-27": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-06-28": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-06-29": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-06-30": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-07-01": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-07-02": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-07-03": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-07-04": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-07-05": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-07-06": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-07-07": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-07-08": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-07-09": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-07-10": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-07-11": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-07-12": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-07-13": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-07-14": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-07-15": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-07-16": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-07-17": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-07-18": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-07-19": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-07-20": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-07-21": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-07-22": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-07-23": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-07-24": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-07-25": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-07-26": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-07-27": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-07-28": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-07-29": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-07-30": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-07-31": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-08-01": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-08-02": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-08-03": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-08-04": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-08-05": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-08-06": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-08-07": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-08-08": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-08-09": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-08-10": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-08-11": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-08-12": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-08-13": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-08-14": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-08-15": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-08-16": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-08-17": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-08-18": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-08-19": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-08-20": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-08-21": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-08-22": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-08-23": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-08-24": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-08-25": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-08-26": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-08-27": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-08-28": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-08-29": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-08-30": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-08-31": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-09-01": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-09-02": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-09-03": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-09-04": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-09-05": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-09-06": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-09-07": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-09-08": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-09-09": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-09-10": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-09-11": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-09-12": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-09-13": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-09-14": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-09-15": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-09-16": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-09-17": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-09-18": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-09-19": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-09-20": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-09-21": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-09-22": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-09-23": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-09-24": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-09-25": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-09-26": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-09-27": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-09-28": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-09-29": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-09-30": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-10-01": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-10-02": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-10-03": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-10-04": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-10-05": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-10-06": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-10-07": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-10-08": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-10-09": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-10-10": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-10-11": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-10-12": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-10-13": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-10-14": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-10-15": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-10-16": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-10-17": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-10-18": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-10-19": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-10-20": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-10-21": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-10-22": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-10-23": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-10-24": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-10-25": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-10-26": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-10-27": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-10-28": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-10-29": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-10-30": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-10-31": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-11-01": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-11-02": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-11-03": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-11-04": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-11-05": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-11-06": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-11-07": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-11-08": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-11-09": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-11-10": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-11-11": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-11-12": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-11-13": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-11-14": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-11-15": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-11-16": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-11-17": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-11-18": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-11-19": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-11-20": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-11-21": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-11-22": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-11-23": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2026-11-24": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-11-25": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-11-26": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-11-27": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-11-28": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-11-29": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2026-11-30": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-12-01": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-12-02": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2026-12-03": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2026-12-04": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2026-12-05": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2026-12-06": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2026-12-07": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2026-12-08": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2026-12-09": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2026-12-10": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2026-12-11": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2026-12-12": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2026-12-13": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2026-12-14": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2026-12-15": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2026-12-16": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2026-12-17": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2026-12-18": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2026-12-19": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2026-12-20": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2026-12-21": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2026-12-22": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2026-12-23": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2026-12-24": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2026-12-25": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2026-12-26": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2026-12-27": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2026-12-28": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2026-12-29": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2026-12-30": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2026-12-31": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2027-01-01": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2027-01-02": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2027-01-03": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2027-01-04": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2027-01-05": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2027-01-06": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2027-01-07": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2027-01-08": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2027-01-09": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2027-01-10": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2027-01-11": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2027-01-12": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2027-01-13": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2027-01-14": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2027-01-15": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2027-01-16": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2027-01-17": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2027-01-18": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2027-01-19": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2027-01-20": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2027-01-21": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2027-01-22": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2027-01-23": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2027-01-24": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2027-01-25": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2027-01-26": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2027-01-27": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2027-01-28": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2027-01-29": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2027-01-30": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2027-01-31": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2027-02-01": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2027-02-02": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2027-02-03": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2027-02-04": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2027-02-05": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2027-02-06": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2027-02-07": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2027-02-08": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2027-02-09": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2027-02-10": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2027-02-11": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2027-02-12": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2027-02-13": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2027-02-14": {
+    "name": "Tamatea kai ariki",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A difficult day. Better to observe and rest.",
+    "moon": "🌓"
+  },
+  "2027-02-15": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2027-02-16": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2027-02-17": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2027-02-18": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2027-02-19": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2027-02-20": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2027-02-21": {
+    "name": "Rākaunui",
+    "energy": "High",
+    "action": "Act",
+    "description": "Peak energy. The full moon. Highly productive.",
+    "moon": "🌕"
+  },
+  "2027-02-22": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2027-02-23": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2027-02-24": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2027-02-25": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2027-02-26": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2027-02-27": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2027-02-28": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2027-03-01": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  },
+  "2027-03-02": {
+    "name": "Tangaroa kiokio",
+    "energy": "High",
+    "action": "Act",
+    "description": "A powerful day. Make use of the great energy.",
+    "moon": "🌗"
+  },
+  "2027-03-03": {
+    "name": "Otāne",
+    "energy": "High",
+    "action": "Act",
+    "description": "A highly productive and good day.",
+    "moon": "🌘"
+  },
+  "2027-03-04": {
+    "name": "Orongonui",
+    "energy": "High",
+    "action": "Act",
+    "description": "An exceptionally good and fruitful day.",
+    "moon": "🌘"
+  },
+  "2027-03-05": {
+    "name": "Mauri",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy begins to draw inward. Finishing tasks.",
+    "moon": "🌘"
+  },
+  "2027-03-06": {
+    "name": "Omutu",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The ending of the cycle. Time to wrap up.",
+    "moon": "🌘"
+  },
+  "2027-03-07": {
+    "name": "Mutuwhenua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "The absolute end of the lunar cycle. Complete rest.",
+    "moon": "🌑"
+  },
+  "2027-03-08": {
+    "name": "Whiro",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Lowest energy day. A time for rest, introspection, and planning.",
+    "moon": "🌑"
+  },
+  "2027-03-09": {
+    "name": "Tirea",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Energy is slowly returning. Gentle preparation.",
+    "moon": "🌒"
+  },
+  "2027-03-10": {
+    "name": "Ohoata",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "Energy is building. Good for starting small tasks.",
+    "moon": "🌒"
+  },
+  "2027-03-11": {
+    "name": "Oue",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Productive day. Energy continues to increase.",
+    "moon": "🌒"
+  },
+  "2027-03-12": {
+    "name": "Okoro",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day for important work and gathering.",
+    "moon": "🌒"
+  },
+  "2027-03-13": {
+    "name": "Tamatea a ngana",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable energy. Proceed with caution.",
+    "moon": "🌓"
+  },
+  "2027-03-14": {
+    "name": "Tamatea a hotu",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Unpredictable weather and energy.",
+    "moon": "🌓"
+  },
+  "2027-03-15": {
+    "name": "Tamatea a whio",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Varying energy. Stay grounded.",
+    "moon": "🌓"
+  },
+  "2027-03-16": {
+    "name": "Huna",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "Things are hidden. Not a good day for seeking.",
+    "moon": "🌔"
+  },
+  "2027-03-17": {
+    "name": "Ariro",
+    "energy": "Medium",
+    "action": "Plan",
+    "description": "A quiet day. Good for light tasks.",
+    "moon": "🌔"
+  },
+  "2027-03-18": {
+    "name": "Mawharu",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very favorable day for all activities.",
+    "moon": "🌔"
+  },
+  "2027-03-19": {
+    "name": "Maurea",
+    "energy": "High",
+    "action": "Act",
+    "description": "Good for connecting with others and important work.",
+    "moon": "🌔"
+  },
+  "2027-03-20": {
+    "name": "Atua",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A tricky day, energy is strange. Be careful.",
+    "moon": "🌔"
+  },
+  "2027-03-21": {
+    "name": "Ohua",
+    "energy": "High",
+    "action": "Act",
+    "description": "Moon is becoming full. Favorable for planting and productivity.",
+    "moon": "🌔"
+  },
+  "2027-03-22": {
+    "name": "Turu",
+    "energy": "High",
+    "action": "Act",
+    "description": "Energy is at its peak. Gathering day.",
+    "moon": "🌕"
+  },
+  "2027-03-23": {
+    "name": "Rākaumatohi",
+    "energy": "High",
+    "action": "Act",
+    "description": "Excellent day. Energy is still very strong.",
+    "moon": "🌕"
+  },
+  "2027-03-24": {
+    "name": "Takirau",
+    "energy": "Medium",
+    "action": "Act",
+    "description": "Energy is beginning to wane gently.",
+    "moon": "🌖"
+  },
+  "2027-03-25": {
+    "name": "Oike",
+    "energy": "Medium",
+    "action": "Rest",
+    "description": "A difficult day, energy dropping.",
+    "moon": "🌖"
+  },
+  "2027-03-26": {
+    "name": "Korekore te whiwhia",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A non-productive day. Energy is low.",
+    "moon": "🌖"
+  },
+  "2027-03-27": {
+    "name": "Korekore te rawea",
+    "energy": "Low",
+    "action": "Rest",
+    "description": "A barren day. Rest is essential.",
+    "moon": "🌗"
+  },
+  "2027-03-28": {
+    "name": "Korekore piri ki ngā Tangaroa",
+    "energy": "Low",
+    "action": "Plan",
+    "description": "Transitioning soon. Prepare for active days ahead.",
+    "moon": "🌗"
+  },
+  "2027-03-29": {
+    "name": "Tangaroa a mua",
+    "energy": "High",
+    "action": "Act",
+    "description": "An excellent day, highly productive.",
+    "moon": "🌗"
+  },
+  "2027-03-30": {
+    "name": "Tangaroa a roto",
+    "energy": "High",
+    "action": "Act",
+    "description": "A very good day for important tasks.",
+    "moon": "🌗"
+  }
+}

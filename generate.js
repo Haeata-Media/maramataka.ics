@@ -67,6 +67,8 @@ function generateCalendars() {
   // Generate for 365 days starting from today to provide a full year calendar
   const today = new Date();
   today.setHours(12, 0, 0, 0); // Calculate at noon for a consistent phase reading
+  
+  const jsonData = {};
 
   for (let i = 0; i < 365; i++) {
     const eventDate = addDays(today, i);
@@ -109,8 +111,19 @@ function generateCalendars() {
       summary: guidanceTitle,
       description: guidanceDesc,
     });
+    
+    // Store data for the JSON API
+    const dateKey = icalDate.toISOString().split('T')[0];
+    jsonData[dateKey] = {
+      name: currentPhase.name,
+      energy: currentPhase.energy,
+      action: currentPhase.action,
+      description: currentPhase.description,
+      moon: currentPhase.moon
+    };
   }
 
+  fs.writeFileSync(path.join(publicDir, 'maramataka-data.json'), JSON.stringify(jsonData, null, 2));
   fs.writeFileSync(path.join(publicDir, 'maramataka-full.ics'), calFull.toString());
   fs.writeFileSync(path.join(publicDir, 'maramataka-energy.ics'), calEnergy.toString());
   fs.writeFileSync(path.join(publicDir, 'maramataka-guidance.ics'), calGuidance.toString());

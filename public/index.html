@@ -46,6 +46,7 @@
       margin-bottom: 1rem;
       background: linear-gradient(to right, #e0f2fe, #7dd3fc);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
 
@@ -194,6 +195,8 @@
       <p class="hero-note">A simple, subtle layer of daily guidance and energy tracking, fitting seamlessly into your existing calendar app.</p>
     </header>
 
+    <div id="today-phase-container"></div>
+
     <section class="glass-card">
       <h2>What this is</h2>
       <p>This is a lightweight calendar feed that places the daily phase of the maramataka smoothly into your calendar. It appears as an all-day event up top, right alongside your meetings and tasks.</p>
@@ -257,5 +260,42 @@
 
   </main>
 
+  <script>
+    async function loadTodayPhase() {
+      try {
+        const response = await fetch('maramataka-data.json');
+        if (!response.ok) return;
+        
+        const data = await response.json();
+        const today = new Date();
+        const year = today.getFullYear();
+        const month = String(today.getMonth() + 1).padStart(2, '0');
+        const day = String(today.getDate()).padStart(2, '0');
+        const dateKey = `${year}-${month}-${day}`;
+        
+        const phase = data[dateKey];
+        if (phase) {
+          const container = document.getElementById('today-phase-container');
+          container.innerHTML = `
+            <div class="glass-card" style="border-left: 4px solid var(--accent); position: relative; overflow: hidden; margin-top: -1rem; margin-bottom: 3rem; background: rgba(56, 189, 248, 0.05);">
+              <div style="font-size: 8rem; position: absolute; right: -1rem; top: -2rem; opacity: 0.1; pointer-events: none;">${phase.moon}</div>
+              <p style="text-transform: uppercase; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.05em; color: var(--accent); margin-bottom: 0.5rem;">Today's Phase</p>
+              <h2 style="margin-top: 0; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem; color: #fff; font-size: 2.25rem;">
+                ${phase.moon} ${phase.name}
+              </h2>
+              <div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+                <span style="background: rgba(255,255,255,0.1); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.9rem;"><strong>Energy:</strong> ${phase.energy}</span>
+                <span style="background: rgba(255,255,255,0.1); padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.9rem;"><strong>Focus:</strong> ${phase.action}</span>
+              </div>
+              <p style="margin-bottom: 0; font-size: 1.15rem; color: #e2e8f0; max-width: 90%; position: relative; z-index: 1;">${phase.description}</p>
+            </div>
+          `;
+        }
+      } catch (e) {
+        console.error('Error loading today phase:', e);
+      }
+    }
+    loadTodayPhase();
+  </script>
 </body>
 </html>
